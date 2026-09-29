@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment (recreate with: python -m venv venv)
+venv/
+.venv/
+
+# Data: input.txt is downloaded automatically by train.py on first run
+input.txt
+names.txt
+
+# Generated output
+*.mid
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
